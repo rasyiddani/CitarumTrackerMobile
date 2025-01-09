@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "268997901863",
+    "firebase_url": "https://iot-impedance-default-rtdb.firebaseio.com",
+    "project_id": "iot-impedance",
+    "storage_bucket": "iot-impedance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268997901863:android:a1690dba1dc0c7afdb5802",
+        "android_client_info": {
+          "package_name": "com.kemsky.flutter_getx_template"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDED_acn5oUyZPSISR3DpZIzVD48KULM68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268997901863:android:101c2ebad244f38bdb5802",
+        "android_client_info": {
+          "package_name": "com.unpad.smart_polutant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDED_acn5oUyZPSISR3DpZIzVD48KULM68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
