@@ -1,0 +1,1 @@
+{"database":{"rules":"database.rules.json"},"flutter":{"platforms":{"android":{"default":{"projectId":"iot-impedance","appId":"1:268997901863:android:101c2ebad244f38bdb5802","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"iot-impedance","configurations":{"android":"1:268997901863:android:101c2ebad244f38bdb5802"}}}}}}
